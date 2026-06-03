@@ -23,7 +23,7 @@
 
     <!-- BOTTOM -->
     <div class="bottom">
-      <p>© {{ year }} Ubumwe Hotel. All rights reserved.</p>
+      <p>© {{ year }} Hakizimana Hertier. All rights reserved.</p>
     </div>
 
   </footer>
