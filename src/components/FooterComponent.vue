@@ -13,10 +13,10 @@
       <h3>Follow Us</h3>
 
       <div class="icons">
-        <a href="#" class="icon">Facebook</a>
-        <a href="#" class="icon">Instagram</a>
-        <a href="#" class="icon">Twitter</a>
-        <a href="mailto:info@ubumwehotel.com" class="icon">Email</a>
+        <a href="https://www.facebook.com/" class="icon">Facebook</a>
+        <a href="#https://www.instagram.com" class="icon">Instagram</a>
+        <a href="https://www.twitter.com" class="icon">Twitter</a>
+        <a href="mailto:hertierhakizimana88@gmal.com" class="icon">Email</a>
         <a href="tel:+250700000000" class="icon">Call</a>
       </div>
     </div>

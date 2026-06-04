@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7e27a"/>
+      <stop offset="50%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#b8860b"/>
+    </linearGradient>
+
+    <style>
+      .title { font: bold 48px 'Arial'; fill: url(#gold); letter-spacing: 2px; }
+      .subtitle { font: 18px 'Arial'; fill: #94a3b8; letter-spacing: 3px; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="800" height="800" fill="#0f172a"/>
+
+  <!-- outer circle -->
+  <circle cx="400" cy="320" r="180" stroke="url(#gold)" stroke-width="6" fill="none"/>
+
+  <!-- crown -->
+  <path d="M310 160 L350 110 L400 150 L450 110 L490 160 L490 190 L310 190 Z"
+        fill="url(#gold)" />
+
+  <!-- U letter -->
+  <text x="400" y="360" text-anchor="middle" font-size="140" font-weight="bold"
+        fill="url(#gold)" font-family="Arial">U</text>
+
+  <!-- hotel icon -->
+  <rect x="360" y="380" width="80" height="80" fill="url(#gold)" opacity="0.9"/>
+  <rect x="370" y="390" width="10" height="10" fill="#0f172a"/>
+  <rect x="390" y="390" width="10" height="10" fill="#0f172a"/>
+  <rect x="410" y="390" width="10" height="10" fill="#0f172a"/>
+  <rect x="370" y="410" width="10" height="10" fill="#0f172a"/>
+  <rect x="390" y="410" width="10" height="10" fill="#0f172a"/>
+  <rect x="410" y="410" width="10" height="10" fill="#0f172a"/>
+
+  <!-- name -->
+  <text x="400" y="600" text-anchor="middle" class="title">UBUMWE HOTEL</text>
+
+  <!-- tagline -->
+  <text x="400" y="650" text-anchor="middle" class="subtitle">
+    LUXURY • COMFORT • HOSPITALITY
+  </text>
+
+</svg>

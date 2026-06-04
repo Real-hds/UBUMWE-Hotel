@@ -10,7 +10,7 @@
         <div class="contact-box">
           <span>📍</span>
           <h3>Location</h3>
-          <p>Kigali, Rwanda</p>
+          <p>Rutsiro, Rwanda</p>
         </div>
 
         <div class="contact-box">
@@ -22,7 +22,7 @@
         <div class="contact-box">
           <span>✉️</span>
           <h3>Email</h3>
-          <p>info@ubumwehotel.com</p>
+          <p>hertierhakizmana88@gmail.com</p>
         </div>
       </div>
 
